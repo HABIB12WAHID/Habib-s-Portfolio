@@ -1,5 +1,7 @@
 import React from 'react'
 import './Navbar.css'
+import { Link } from "react-router-dom";
+
 
 function Navbar() {
     return (
@@ -14,13 +16,13 @@ function Navbar() {
                         </button>
                     <div className="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
                         <div className="navbar-nav">
-                            <a className="nav-link active" href="/">Home</a>
-                            <a className="nav-link" href="/">About</a>
-                            <a className="nav-link" href="/">Work</a>
-                            <a className="nav-link" href="/">Services</a>
-                            <a className="nav-link" href="/">Resume</a>
-                            <a className="nav-link" href="/">Contact</a>
-                            <a className="nav-link" href="/">Blogs</a>
+                            <Link className="nav-link" to="/">Home</Link>
+                            <Link className="nav-link" to="/about">About</Link>
+                            <Link className="nav-link" to="/work">Work</Link>
+                            <Link className="nav-link" to="/services">Services</Link>
+                            <Link className="nav-link" to="/resume">Resume</Link>
+                            <Link className="nav-link" to="/contact">Contact</Link>
+                            <Link className="nav-link" to="/blog">Blogs</Link>
                         </div>
                     </div>
                 </div>

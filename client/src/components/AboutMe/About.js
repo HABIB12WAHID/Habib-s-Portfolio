@@ -40,11 +40,13 @@ const About = () => {
                     <div className="col-sm-6 mb-3 mt-4 additional-card">
                         {showMore && (
                             <div className="mt-4">
-                                <h5 className="text-center">Skill Details</h5>
+                                <h5 className="text-center text-headline">Skill Details</h5>
+                                <hr />
                                 <ul>
                                     <li className="mt-3"><strong>Front-End Development:</strong> HTML, CSS, JavaScript and framework Bootstrap, React/Angular & version control Git and GitHub.</li>
                                     <li className="mt-3"><strong>Backend Development:</strong> Node.js, Express.js, NoSQL Databases: MongoDB, GraphQL APIs, JWT Auth</li>
                                     <li className="mt-3"><strong>DevOps & Deployment:</strong> Hosting Services: AWS,  CI/CD (Continuous Integration/Deployment): GitHub Actions,</li>
+                                    <li className="mt-3"><strong>Final Project Development:</strong> Developed full-stack applications that included user authentication, payment integration, and dynamic data handling. Focused on performance optimization and user experience (UX)</li>
                                     <li className="mt-3"><strong>Hobbies:</strong> Problem-solving, exploring new technologies, and reading tech blogs.</li>
                                 </ul>
                             </div>
@@ -53,12 +55,12 @@ const About = () => {
                     <div className="col-sm-6 mb-3 mt-4 additional-card">
                         {showMore && (
                             <div className="mt-4">
-                                <h5 className="text-center">Training Summery</h5>
+                                <h5 className="text-center text-headline">Training Summery</h5>
+                                <hr />
                                 <ul>
-                                    <li className="mt-3"><strong>Institute:</strong> Creative It institute </li>
-                                    <li className="mt-3"><strong>Key Skills:</strong> HTML, CSS, JavaScript, Responsive Design</li>
-                                    <li className="mt-3"><strong>Institute:</strong> Creative It institute </li>
-                                    <li className="mt-3"><strong>Key Skills:</strong> HTML, CSS, JavaScript, Responsive Design</li>
+                                    <li className="mt-3"><strong>Self-Study and Online Resources:</strong> YouTube Tutorials: Followed channels like Traversy Media, Academind, and Programming Hero for hands-on learning. Documentation: Regularly referred to official documentation for React.js, Node.js, and MongoDB. </li>
+                                    <li className="mt-3"><strong> Peer and Mentor Support:</strong>Group Discussions: Participated in forums, online groups, and local communities for coding challenges. Mentorship: Learned advanced concepts through guidance from experienced professionals at Creative IT Institute.</li>
+                                    <li className="mt-3"><strong>Practical Hands-On Work:</strong> Mini Projects: Built small apps like calculators, to-do lists, and weather apps to practice skills. Debugging Practice: Focused on troubleshooting errors to improve problem-solving skills. </li>                       
                                 </ul>
                             </div>
                         )}
@@ -66,12 +68,15 @@ const About = () => {
                     <div className="col-sm-6 mb-3 mt-4 additional-card">
                         {showMore && (
                             <div className="mt-4">
-                                <h5 className="text-center">Additional Details</h5>
+                                <h5 className="text-center text-headline">Work Overflow</h5>
+                                <hr />
                                 <ul>
-                                    <li><strong>Skills:</strong> HTML, CSS, JavaScript, React, Node.js, MongoDB, Express.js</li>
-                                    <li><strong>Experience:</strong> 3+ years in web development, focusing on e-commerce and dynamic websites.</li>
-                                    <li><strong>Education:</strong> Currently pursuing Computer Engineering at Uttara University.</li>
-                                    <li><strong>Hobbies:</strong> Problem-solving, exploring new technologies, and reading tech blogs.</li>
+                                    <li className="mt-2"><strong>Requirement Gathering::</strong> Collaborating with clients or stakeholders to define project scope.</li>
+                                    <li className="mt-2"><strong>UI/UX Design:</strong> Creating responsive and user-friendly layouts using Figma and CSS frameworks.</li>
+                                    <li className="mt-2"><strong>Development Workflow:</strong> Front-End: Building components with React.js.
+                                    Back-End: Setting up APIs using Node.js and Express.</li>
+                                    <li className="mt-2"><strong>Testing & Debugging:</strong> Ensuring cross-browser compatibility and bug-free performance.</li>
+                                    <li className="mt-2"><strong>Deployment:</strong> Hosting sites on GitHub Pages, Netlify, or Heroku for live production.</li>
                                 </ul>
                             </div>
                         )}
@@ -79,12 +84,15 @@ const About = () => {
                     <div className="col-sm-6 mb-3 mt-4 additional-card">
                         {showMore && (
                             <div className="mt-4">
-                                <h5 className="text-center">Additional Details</h5>
+                                <h5 className="text-center text-headline">Certifications/Achievements</h5>
+                                <hr />
                                 <ul>
-                                    <li><strong>Skills:</strong> HTML, CSS, JavaScript, React, Node.js, MongoDB, Express.js</li>
-                                    <li><strong>Experience:</strong> 3+ years in web development, focusing on e-commerce and dynamic websites.</li>
-                                    <li><strong>Education:</strong> Currently pursuing Computer Engineering at Uttara University.</li>
-                                    <li><strong>Hobbies:</strong> Problem-solving, exploring new technologies, and reading tech blogs.</li>
+                                    <li className="mt-3"><strong>Front-End:</strong> Front-End Development by Creative IT Institute.</li>
+                                    <li className="mt-3"><strong>Backend:</strong> JavaScript and React.js Certification from FreeCodeCamp. MongoDB for Developers (Online Certification)</li>
+                                    <li className="mt-3"><strong>Successfully delivered:</strong> Multiple full-stack web applications for clients.</li>
+                                    <li className="mt-3"><strong>Ranked in Coding Challenges:</strong> HackerRank/Codewars competitions.</li>
+                                    <li className="mt-3"><strong>Full-Stack:</strong> Full-Stack certification from w3school.com.</li>
+                                    <li className="mt-3"><strong>Internship Experience:</strong> Front-End Mentor at Nugortech IT. Worked on dynamic website interfaces and optimized performance.</li>
                                 </ul>
                             </div>
                         )}

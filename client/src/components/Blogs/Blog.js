@@ -30,7 +30,7 @@ const Blog = () => {
   };
 
   return (
-    <div className="blog-section container py-5">
+    <div className="blog-section container py-5 mt-1">
       <h2 className="text-center mb-4">Blog</h2>
 
       {/* Blog Post Form */}

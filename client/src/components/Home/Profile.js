@@ -4,7 +4,7 @@ import './Profile.css';
 
 function Profile() {
     return (
-        <div className="profile-container container py-5 mt-2">
+        <div className="profile-container container py-5 mt-1">
             <div className="profile-parent row align-items-center">
                 <div className="col-md-5 text-center mb-4">
                     <img

@@ -6,6 +6,9 @@ body {
   overflow-y: overlay;
   font-family: "Poppins Regular";
   background-color: rgba(84, 178, 147, 0.285);
+  background-image: url(https://t3.ftcdn.net/jpg/09/70/12/90/240_F_970129039_bqm1oNSHsGmfjXhysDDDG0ffe5YtbRsN.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 code {

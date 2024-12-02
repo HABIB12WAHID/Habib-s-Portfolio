@@ -3,7 +3,7 @@ import "./Resume.css";
 
 const Resume = () => {
     return (
-        <div className="resume-section container py-5">
+        <div className="resume-section container py-5 mt-1">
             <h2 className="text-center mb-4">Resume</h2>
 
             {/* Work Experience */}
@@ -27,13 +27,13 @@ const Resume = () => {
                         SSC: Sherpur Government Victoria Academy, GPA: 5.00
                     </li>
                     <li className="list-group-item">
-                        HSC: Sherpur Government College, GPA: 5.00
+                        HSC: Sherpur Government College, Sherpur GPA: 5.00
                     </li>
                     <li className="list-group-item">
                         IUBAT (Civil Engineering, 2 Semesters Completed)
                     </li>
                     <li className="list-group-item">
-                        Current: Computer Engineering, Uttara University
+                        Current: Computer Science & Engineering, Uttara University
                     </li>
                 </ul>
             </div>

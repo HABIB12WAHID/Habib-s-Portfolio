@@ -48,7 +48,7 @@ const Work = () => {
     ];
 
     return (
-        <div className="container work-container">
+        <div className="container work-container mt-1">
             <div className="text-center work-btn">
                 <button className=" btn btn-classic">My Worked History</button>
             </div>

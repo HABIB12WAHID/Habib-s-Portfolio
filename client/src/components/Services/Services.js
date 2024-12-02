@@ -36,7 +36,7 @@ const Services = () => {
   ];
 
   return (
-    <div className="services-section container py-5">
+    <div className="services-section container py-5 mt-1">
       <h2 className="text-center mb-4">My Services</h2>
       <hr className="hr"/>
       <div className="row">
