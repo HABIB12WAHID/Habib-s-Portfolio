@@ -1,0 +1,11 @@
+.navbar-container {
+    background-color: rgba(226, 228, 231, 0.959);
+}
+
+.nav-link {
+    font-size: 20px;
+    font-weight: 500;
+}
+.navbar-nav a:hover {
+    color: rgba(18, 18, 200, 0.679);
+}

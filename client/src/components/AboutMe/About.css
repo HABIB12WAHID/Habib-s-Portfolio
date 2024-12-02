@@ -1,0 +1,29 @@
+.about-container {
+    background-color: rgba(239, 235, 228, 0.848);
+    margin-top: 3px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.btn-classic {
+    width: 96%;
+    background-color: rgba(169, 166, 162, 0.817);
+    margin-bottom: 12px;
+    font-size: 30px;
+}
+.bold {
+    color: green;
+}
+.semi-bold {
+    color: red;
+}
+.additional-card {
+    background-color: rgba(216, 224, 225, 0.355);
+    margin-top: 25px;
+}
+
+.profile-options .highlighted-btn {
+    color: rgba(0, 0, 0, 0.674);      
+}

@@ -1,0 +1,36 @@
+/* .development-details {
+    background-color: rgba(52, 52, 49, 0.169);
+    padding: 2%;
+} */
+.resume-section {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 40px 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .resume-part h4 {
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  .list-group-item {
+    font-size: 1rem;
+    border: none;
+    padding-left: 20px;
+  }
+  
+  .list-group-item strong {
+    color: #555;
+  }
+  
+  p {
+    color: #555;
+    line-height: 1.6;
+  }
+  

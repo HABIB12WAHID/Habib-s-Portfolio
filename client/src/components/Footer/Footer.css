@@ -1,0 +1,31 @@
+ .footer-section {
+    color: #ddd;
+    padding: 3%;
+    margin-top: 10px;
+  }
+
+  .footer-container {
+    background-color: #ddd;
+    margin-top: 2px;
+  }
+  
+  .headline-text h5 {
+    color: black;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  .footer .social-icons a {
+    color: black;
+    font-size: 1.5rem;
+    transition: color 0.3s;
+  }
+  
+  .footer .social-icons i:hover {
+    color: #007bff;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
+  
