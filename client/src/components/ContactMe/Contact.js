@@ -5,12 +5,19 @@ const Contact = () => {
     return (
         <div className="contact-section container py-5 mt-1">
             <h2 className="text-center mb-4">Contact Me</h2>
-            <hr className="hr"/>
+            <hr className="hr" />
             <p className="text-center mb-4 mt-4">
                 Feel free to reach out for any inquiries or collaborations!
             </p>
-            <div className="row justify-content-center">
-                <div className="col-md-8">
+            <div className="row align-items-center mb-3">
+                <div className="col-md-5 text-center mb-4 mb-md-0">
+                    <img
+                        src="https://png.pngtree.com/png-clipart/20190831/ourmid/pngtree-business-man-handshake-cooperation-data-promotion-illustration-png-image_1716789.jpg"
+                        alt="Profile"
+                        className="img-fluid shadow-sm"
+                    />
+                </div>
+                <div className="col-md-7">
                     <form>
                         <div className="mb-3">
                             <label htmlFor="name" className="form-label">

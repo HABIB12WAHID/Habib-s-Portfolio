@@ -5,12 +5,10 @@
     -moz-border-radius: 7px;
     -ms-border-radius: 7px;
     -o-border-radius: 7px;
-    background-color: rgba(211, 220, 225, 0.876);
+    background-color: rgba(217, 222, 225, 0.876);
 }
-.btn-classic {
-    width: 97%;
-    margin-top: 15px;
-    margin-bottom: 7px;
+.service-card {
+    background-color: rgba(175, 181, 182, 0.689);
 }
 .work-btn {
     border-radius: 3px;

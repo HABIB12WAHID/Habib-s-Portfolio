@@ -49,14 +49,12 @@ const Work = () => {
 
     return (
         <div className="container work-container mt-1">
-            <div className="text-center work-btn">
-                <button className=" btn btn-classic">My Worked History</button>
-            </div>
+            <h2 className="text-center mb-3 pt-4">My Worked History</h2>
             <hr className='hr'/>
             <div className="row work-details">
                 {projects.map((project) => (
                     <div className="col-md-4 mb-4" key={project.id}>
-                        <div className="card shadow-sm">
+                        <div className="card service-card shadow-sm">
                             <img src={project.img} alt={project.title} className="card-img-top" />
                             <div className="card-body">
                                 <h5 className="card-title">{project.title}</h5>

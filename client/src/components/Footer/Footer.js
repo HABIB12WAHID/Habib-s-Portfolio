@@ -15,13 +15,13 @@ const Footer = () => {
                                 </a>
                             </li>
                             <li className="mt-3">
-                                <a href="/services" className="text-black text-decoration-none">
-                                    Services
+                                <a href="/about" className="text-black text-decoration-none">
+                                    About
                                 </a>
                             </li>
                             <li className="mt-3">
-                                <a href="/contact" className="text-black text-decoration-none">
-                                    Contact
+                                <a href="/services" className="text-black text-decoration-none">
+                                    Services
                                 </a>
                             </li>
                             <li className="mt-3">
@@ -47,12 +47,12 @@ const Footer = () => {
                                 </a>
                             </li>
                             <li className="mt-3">
-                                <a href="https://github.com/HABIB12WAHID" className="text-black text-decoration-none text-center">
+                                <a href="https://github.com/HABIB12WAHID" target="blank" className="text-black text-decoration-none text-center">
                                     GitHub
                                 </a>
                             </li>
                             <li className="mt-3">
-                                <a href="https://www.linkedin.com/in/md-habib-mia-295361332/" className="text-black text-decoration-none text-center">
+                                <a href="https://www.linkedin.com/in/md-habib-mia-295361332/" target="blank" className="text-black text-decoration-none text-center">
                                     LinkedIn
                                 </a>
                             </li>                          

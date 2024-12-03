@@ -25,12 +25,12 @@ const Services = () => {
       },
       {
         title: "Database Management:",
-        description: "Custom e-commerce platforms with payment gateway integration.",
+        description: "Database Design and Setup, Data Entry and Migration, Database Optimization, Data Backup and Recovery, Database Monitoring and Maintenance, Database Integration.",
         icon: "bi bi-cart-check",
       },
       {
         title: "Deployment Services",
-        description: "CI/CD Pipeline Setup, Web Hosting and Server Setup, Version Control Management: Git, GitHub",
+        description: "Application Deployment, CI/CD Pipeline Setup, Web Hosting and Server Setup, Version Control git & GitHub, Domain and SSL Setup, Error Handling and Rollback Mechanisms.",
         icon: "bi bi-graph-up-arrow",
       },
   ];

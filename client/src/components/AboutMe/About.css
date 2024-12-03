@@ -7,6 +7,10 @@
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
 }
+.text-muted {
+    color: black;
+    font-size: 24px;
+}
 .btn-classic {
     width: 96%;
     background-color: rgba(169, 166, 162, 0.817);
@@ -15,9 +19,15 @@
 }
 .bold {
     color: green;
+    font-size: 22px;
+}
+p {
+    color: rgba(0, 0, 0, 0.807);
+    font-size: 18px;
 }
 .semi-bold {
     color: red;
+    font-size: 22px;
 }
 .additional-card {
     background-color: rgba(216, 224, 225, 0.355);

@@ -15,14 +15,31 @@
   }
   
   .resume-part h4 {
-    color: #007bff;
+    color: #5a6ac4e3;
     font-weight: bold;
+    font-size: 25px;
   }
-  
+ 
   .list-group-item {
     font-size: 1rem;
     border: none;
-    padding-left: 20px;
+    padding-left: 30px;
+    background-color: rgba(212, 235, 235, 0.194);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    box-shadow: 2px 4px 3px rgba(0, 0, 0, 0.1);
+}
+
+  .resume-part p {
+    background-color: rgba(212, 235, 235, 0.194);
+    padding: 15px;
+    color: #333;
+    font-weight: 500;
+    box-shadow: 2px 4px 3px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
   }
   
   .list-group-item strong {
