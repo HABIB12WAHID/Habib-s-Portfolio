@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HABIB12WAHID/Habib-s-Portfolio/static/css/main.358d4afa.css",
-    "main.js": "/HABIB12WAHID/Habib-s-Portfolio/static/js/main.4d04ef29.js",
-    "static/js/453.419a5d54.chunk.js": "/HABIB12WAHID/Habib-s-Portfolio/static/js/453.419a5d54.chunk.js",
-    "index.html": "/HABIB12WAHID/Habib-s-Portfolio/index.html",
-    "main.358d4afa.css.map": "/HABIB12WAHID/Habib-s-Portfolio/static/css/main.358d4afa.css.map",
-    "main.4d04ef29.js.map": "/HABIB12WAHID/Habib-s-Portfolio/static/js/main.4d04ef29.js.map",
-    "453.419a5d54.chunk.js.map": "/HABIB12WAHID/Habib-s-Portfolio/static/js/453.419a5d54.chunk.js.map"
+    "main.css": "/Habib-s-Portfolio/static/css/main.358d4afa.css",
+    "main.js": "/Habib-s-Portfolio/static/js/main.c4663e20.js",
+    "static/js/453.419a5d54.chunk.js": "/Habib-s-Portfolio/static/js/453.419a5d54.chunk.js",
+    "index.html": "/Habib-s-Portfolio/index.html",
+    "main.358d4afa.css.map": "/Habib-s-Portfolio/static/css/main.358d4afa.css.map",
+    "main.c4663e20.js.map": "/Habib-s-Portfolio/static/js/main.c4663e20.js.map",
+    "453.419a5d54.chunk.js.map": "/Habib-s-Portfolio/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.358d4afa.css",
-    "static/js/main.4d04ef29.js"
+    "static/js/main.c4663e20.js"
   ]
 }
